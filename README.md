@@ -1,2 +1,2 @@
-# RPS-game
+# prime
 Basic rock paper scissors game 
